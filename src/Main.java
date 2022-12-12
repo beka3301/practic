@@ -31,7 +31,8 @@ public class Main {
             System.out.println(a*b);
         } else if (t.equals("/")) {
             System.out.println(a/b);
-        }
+        }else
+            System.out.println();
 
     }
 }
